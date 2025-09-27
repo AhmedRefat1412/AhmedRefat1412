@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmed Refat  
 
-<!--
-**AhmedRefat1412/AhmedRefat1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Aspiring **Data Engineer / Data Analyst** passionate about **Big Data, BI, and Analytics**.  
+🚀 Skilled in Python, SQL, Power BI, and Data Visualization.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with me
+- 💼 [LinkedIn](https://www.linkedin.com/feed/)  
+- 📧 [Email](mailto:ahmedrefat1412@gmail.com)  
+
+---
+
+## 📊 Featured Projects
+
+### 🚀 [Startup Expansion Dashboard](https://github.com/AhmedRefat1412/startup-expansion-dashboard)
+A Power BI dashboard analyzing startup expansion across U.S. states and cities.  
+**Tools:** Power BI, Excel/CSV  
+
+![Dashboard Preview](https://raw.githubusercontent.com/AhmedRefat1412/startup-expansion-dashboard/main/screenshots/profit-by-state.png)
+
+---
+)
