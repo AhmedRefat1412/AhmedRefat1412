@@ -17,7 +17,7 @@
 A Power BI dashboard analyzing startup expansion across U.S. states and cities.  
 **Tools:** Power BI, Excel/CSV  
 
-![Dashboard Preview](https://raw.githubusercontent.com/AhmedRefat1412/startup-expansion-dashboard/main/screenshots/profit-by-state.png)
+![Dashboard Preview](https://raw.githubusercontent.com/AhmedRefat1412/startup-expansion-dashboard/master/dashbord.png)
 
 ---
 )
