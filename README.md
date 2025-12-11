@@ -5,9 +5,9 @@
 -------------------------------------------------
 🌐 Connect with me
 
-💼 LinkedIn
+💼 [LinkedIn](https://www.linkedin.com/in/ahmed-refat-266153239/)
 
-📧 Email
+📧 [Email](ahmedrefat1412@gmail.com)
 -------------------------------------------------
 📊 Featured Projects
 
