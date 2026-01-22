@@ -24,9 +24,8 @@ The final warehouse is optimized for analytical queries and BI consumptio
 ### 🚀 [E-commerce Data Engineering Pipeline](https://github.com/AhmedRefat1412/NYC-Smart_Traffic_pipline)
 
 <p align="center">
-  <img src="https://github.com/AhmedRefat1412/NYC-Smart_Traffic_pipline/blob/main/docs/nyc%20_traffic.drawio.png" width="30%" />
-  <img src="https://github.com/AhmedRefat1412/NYC-Smart_Traffic_pipline/blob/main/docs/nyc_dw_schema.jpeg" width="30%" />
-  <img src="https://github.com/AhmedRefat1412/NYC-Smart_Traffic_pipline/blob/main/docs/Screenshot%202026-01-20%20012808.png" width="30%" />
+  <img src="https://github.com/AhmedRefat1412/NYC-Smart_Traffic_pipline/blob/main/docs/nyc%20_traffic.drawio.png" width="50%" />
+  <img src="https://github.com/AhmedRefat1412/NYC-Smart_Traffic_pipline/blob/main/docs/Screenshot%202026-01-20%20012808.png" width="50%" />
 </p>
 
 -----------------------------------------------------------------------------------------------------------------------------
