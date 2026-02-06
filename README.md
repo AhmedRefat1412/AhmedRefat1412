@@ -33,9 +33,9 @@ The final warehouse is optimized for analytical queries and BI consumptio
 
 🔥 2. End-to-End E-commerce Data Engineering Pipeline
 
-👉 (MongoDB → CSV → PySpark → PostgreSQL → Power BI)
+👉 (MongoDB + CSV) → PySpark → PostgreSQL → Power BI
 
-This project demonstrates a full ETL/ELT Data Engineering Pipeline running on Apache Airflow inside Docker, processing raw e-commerce data into a complete Star Schema Data Warehouse and visualizing results using Power BI.
+This project demonstrates a full ETL Data Engineering Pipeline running on Apache Airflow inside Docker, processing raw e-commerce data into a complete Star Schema Data Warehouse and visualizing results using Power BI.
 
 ###  [E-commerce Data Engineering Pipeline](https://github.com/AhmedRefat1412/ecommerce-data-pipeline)
 
