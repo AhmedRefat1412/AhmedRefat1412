@@ -10,7 +10,7 @@
 
 📧 [Email](mailto:ahmedrefat1412@gmail.com)
 -------------------------------------------------
-📊 Featured Projects
+** Featured Projects **
 
 🔥 1. End-to-End New York City Samrt Pipeline 
 
