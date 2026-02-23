@@ -29,10 +29,10 @@ The final warehouse is optimized for analytical queries and BI consumptio
   <img src="https://github.com/AhmedRefat1412/NYC-Smart_Traffic_pipline/blob/main/docs/Screenshot%202026-01-20%20012808.png" width="40%" />
 </p>
 
------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------
 
 🔥 2. End-to-End E-commerce Data Engineering Pipeline
-
+.......................... 
 👉 (MongoDB + CSV) → PySpark → PostgreSQL → Power BI
 
 This project demonstrates a full ETL Data Engineering Pipeline running on Apache Airflow inside Docker, processing raw e-commerce data into a complete Star Schema Data Warehouse and visualizing results using Power BI.
