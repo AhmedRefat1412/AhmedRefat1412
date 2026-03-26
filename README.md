@@ -1,18 +1,25 @@
 # 👋 Hi, I'm Ahmed Refat
 
-**Aspiring Data Engineer** with a strong focus on building scalable data pipelines, real-time streaming systems, and data warehouses.
+Aspiring Data Engineer building scalable batch & real-time data pipelines using PySpark, Kafka, and Airflow, transforming raw data into production-ready data warehouses and analytics systems.
 
-I am passionate about Big Data, ETL/ELT processes, and transforming raw data into actionable insights.
+I have hands-on experience designing end-to-end data solutions, starting from data ingestion from multiple sources (APIs, MongoDB, CSV), through processing with distributed systems, to building optimized data warehouses and delivering insights via BI tools.
 
----
+My expertise includes:
+  - Building ETL/ELT pipelines using PySpark & Apache Airflow  
+  - Developing real-time streaming systems using Kafka & Spark Structured Streaming  
+  - Designing Data Warehouses using Star Schema modeling  
+  - Working with cloud storage (AWS S3) and modern databases (PostgreSQL, Snowflake, MongoDB)  
+  - Building interactive dashboards using Power BI & Grafana 
 
-## 🛠️ Tech Stack
+------------------------
+
+## tools 
 
 - **Languages:** Python, SQL  
 - **Big Data:** PySpark, Apache Kafka  
 - **Data Engineering:** Apache Airflow, ETL/ELT Pipelines  
 - **Databases:** PostgreSQL, MongoDB, Snowflake, TimescaleDB  
-- **Cloud & Storage:** AWS S3  
+- **Cloud & DevOps Tools** AWS, Snowflake , Docker , GitHub ,Linux 
 - **BI & Visualization:** Power BI, Grafana  
 
 ---
@@ -21,6 +28,8 @@ I am passionate about Big Data, ETL/ELT processes, and transforming raw data int
 
 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-refat-266153239/)  
 📧 [Email](mailto:ahmedrefat1412@gmail.com)
+🌐 [protfolio](https://portfolio-indol-alpha-oqb5g4f1kz.vercel.app/)
+
 
 ---
 
