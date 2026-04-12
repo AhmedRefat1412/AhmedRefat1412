@@ -34,13 +34,51 @@ My expertise includes:
 ---
 
 ##  Featured Projects
+## 1. End-to-End Financial Data Platform
 
-###  1. End-to-End NYC Smart Traffic Data Pipeline
+**Overview:**  
+A complete end-to-end data engineering platform designed to process financial data for analytics, reporting, and monitoring.  
+The project combines batch data pipelines with a modern cloud-based architecture to transform raw financial datasets into analytics-ready insights.
+
+[View Project](https://github.com/AhmedRefat1412/Financial_data_platform)
+
+### Architecture:
+<p align="center">
+  <img src="https://github.com/AhmedRefat1412/Financial_data_platform/blob/main/docs/Financial_data_paltform.drawio.png" />
+</p>
+
+**Batch Pipeline:**  
+CSV / API Financial Data  
+→ AWS S3 (Raw Layer)  
+→ AWS Glue / PySpark Processing  
+→ AWS S3 (Processed Layer)  
+→ dbt Transformations  
+→ Amazon Redshift (Data Warehouse)  
+→ Power BI (Analytics Dashboard)
+
+### Key Features:
+- End-to-End ELT Pipeline  
+- Medallion-Style Data Layering  
+- Data Quality Validation using Great Expectations  
+- Automated Transformations with dbt  
+- Analytics-Ready Data Warehouse in Redshift  
+- Workflow Orchestration with Apache Airflow  
+- Scalable Cloud Architecture on AWS  
+
+---
+
+
+###  2. End-to-End NYC Smart Traffic Data Pipeline
 
 **Overview:**  
 A complete batch + real-time data engineering pipeline simulating smart city traffic analytics.
 
-###  Architecture:
+ [View Project](https://github.com/AhmedRefat1412/NYC-Smart_Traffic_pipline)
+
+### Architecture:
+<p align="center">
+  <img src="https://github.com/AhmedRefat1412/NYC-Smart_Traffic_pipline/blob/main/docs/nyc%20_traffic.drawio.png" width="45%" />
+</p>
 
 **Batch Pipeline:**  
 MongoDB + CSV + Weather Data + Accidents  
@@ -62,21 +100,19 @@ API → Kafka → PySpark Structured Streaming
 - Batch + Streaming Integration  
 - Scalable Architecture  
 
- [View Project](https://github.com/AhmedRefat1412/NYC-Smart_Traffic_pipline)
-
-<p align="center">
-  <img src="https://github.com/AhmedRefat1412/NYC-Smart_Traffic_pipline/blob/main/docs/nyc%20_traffic.drawio.png" width="45%" />
-  <img src="https://github.com/AhmedRefat1412/NYC-Smart_Traffic_pipline/blob/main/docs/Screenshot%202026-01-20%20012808.png" width="45%" />
-</p>
-
 ---
 
-###  2. End-to-End E-commerce Data Engineering Pipeline
+###  3. End-to-End E-commerce Data Engineering Pipeline
 
  **Overview:**  
 A full ETL pipeline orchestrated with Apache Airflow, transforming raw e-commerce data into a structured Data Warehouse.
 
-###  Architecture:
+ [View Project](https://github.com/AhmedRefat1412/ecommerce-data-pipeline)
+
+### Architecture:
+<p align="center">
+  <img src="https://github.com/AhmedRefat1412/ecommerce-data-pipeline/blob/main/docs/E-commerce%20Data%20piplines.drawio.png" width="45%" />
+</p>
 
 MongoDB + CSV  
 → PySpark Processing  
@@ -89,27 +125,7 @@ MongoDB + CSV
 - Automated ETL Pipeline  
 - Data Transformation & Validation  
 
- [View Project](https://github.com/AhmedRefat1412/ecommerce-data-pipeline)
 
-<p align="center">
-  <img src="https://github.com/AhmedRefat1412/ecommerce-data-pipeline/blob/main/docs/E-commerce%20Data%20piplines.drawio.png" width="45%" />
-  <img src="https://github.com/AhmedRefat1412/ecommerce-data-pipeline/blob/main/docs/Data%20Warehouse%20Schema.png" width="45%" />
-</p>
-
----
-
-###  3. Startup Expansion Dashboard
-
- **Overview:**  
-A Power BI dashboard analyzing startup growth across U.S. states and cities.
-
- **Tools:** Power BI, Excel/CSV  
-
- [View Project](https://github.com/AhmedRefat1412/startup-expansion-dashboard)
-
-![Dashboard Preview](https://raw.githubusercontent.com/AhmedRefat1412/startup-expansion-dashboard/master/Screenshot.png)
-
----
 
 ##  Current Focus
 
