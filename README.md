@@ -32,38 +32,10 @@ I work across the full data engineering stack:
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages & Processing
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-### Orchestration & Storage
-![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
-
-### Databases & Visualization
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-
----
-
 ## 🚀 Featured Projects
 
-### 📡 1. Predictive Telecom Streaming Lakehouse ⭐ 
-> A real-time streaming platform that simulates telecom tower monitoring, detects anomalies using ML, and triggers instant alerts with a scalable lakehouse architecture.
+### 📡 1. Predictive Telecom Streaming Lakehouse 
+> A real-time streaming platform that simulates telecom monitoring, applies ML for anomaly detection, and triggers instant alerts using a scalable lakehouse architecture.
 
 **Tech:** Kafka · PySpark Structured Streaming · Apache Iceberg · AWS S3 · AWS Glue · AWS Athena · Airflow · Scikit-learn · Grafana · Docker · Telegram Bot
 
@@ -73,11 +45,11 @@ I work across the full data engineering stack:
 
 | Layer | Stack |
 |---|---|
-| Data Simulation | 4 APIs → Kafka Topics |
+| Data Simulation | APIs → Kafka Topics |
 | Streaming Pipeline | Kafka → Spark → Iceberg (S3) |
 | ML Layer | Isolation Forest (Real-Time) |
 | Alerting | Kafka → Python Service → Telegram |
-| Lakehouse | Bronze / Silver / Gold (Iceberg) |
+| Lakehouse | Bronze / Silver / Gold |
 | Visualization | Athena → Grafana |
 
 🔗 [View Project →](https://github.com/AhmedRefat1412/Predictive-Telecom-Streaming-Lakehouse)
@@ -85,7 +57,8 @@ I work across the full data engineering stack:
 ---
 
 ### ✈️ 2. NYC Flight Delay Prediction & Analytics Platform
-> End-to-end platform combining **batch + real-time** pipelines to predict and analyze flight delays using flight, weather, and airport data.
+
+> End-to-end platform combining **batch + real-time pipelines** to predict and analyze flight delays.
 
 **Tech:** PySpark · Kafka · Spark Structured Streaming · XGBoost · Snowflake · TimescaleDB · Power BI · Grafana · Airflow
 
@@ -98,28 +71,73 @@ I work across the full data engineering stack:
 | Batch Pipeline | Flights + Weather → AWS S3 → PySpark → Snowflake → Power BI |
 | Streaming Pipeline | API → Kafka → Spark → XGBoost → TimescaleDB → Grafana |
 | Schema | Galaxy Schema |
-| Architecture | Medallion |
+| Architecture | Medallion (Bronze / Silver / Gold) |
 
 🔗 [View Project →](https://github.com/AhmedRefat1412/Flight-Airline-Analytics-Platform)
 
 ---
 
 ### 💰 3. End-to-End Financial Data Platform
-> A production-grade cloud-native ELT platform for processing and analyzing financial data.
+
+> A production-grade ELT pipeline for financial data with validation and warehouse modeling.
+
+**Tech:** AWS Glue · PySpark · dbt · Amazon Redshift · Great Expectations · Airflow · Power BI
+
+<p align="center">
+  <img src="https://github.com/AhmedRefat1412/Financial_data_platform/blob/main/docs/Financial_data_paltform.drawio.png?raw=true" width="80%" />
+</p>
+
+| Layer | Stack |
+|---|---|
+| Ingestion | CSV / API → AWS S3 |
+| Processing | AWS Glue (PySpark) → Cleaned Data |
+| Transformation | dbt → Redshift |
+| Quality | Great Expectations |
+| Visualization | Power BI |
+| Orchestration | Airflow |
 
 🔗 [View Project →](https://github.com/AhmedRefat1412/Financial_data_platform)
 
 ---
 
 ### 🚦 4. NYC Smart Traffic Data Pipeline
-> Smart city pipeline combining batch and streaming processing.
+
+> A smart city pipeline combining **real-time + batch processing** for traffic analytics.
+
+**Tech:** MongoDB · PySpark · Kafka · Spark Streaming · Snowflake · TimescaleDB · Power BI · Grafana
+
+<p align="center">
+  <img src="https://github.com/AhmedRefat1412/NYC-Smart_Traffic_pipline/blob/main/docs/nyc%20_traffic.drawio.png?raw=true" width="80%" />
+</p>
+
+| Layer | Stack |
+|---|---|
+| Sources | MongoDB + CSV + APIs |
+| Batch Pipeline | AWS S3 → PySpark → Snowflake → Power BI |
+| Streaming Pipeline | API → Kafka → Spark → TimescaleDB → Grafana |
+| Schema | Star Schema |
 
 🔗 [View Project →](https://github.com/AhmedRefat1412/NYC-Smart_Traffic_pipline)
 
 ---
 
 ### 🛒 5. E-Commerce Data Engineering Pipeline
-> Fully orchestrated ETL pipeline with Star Schema warehouse.
+
+> A fully orchestrated ETL pipeline transforming raw data into a structured **Star Schema Data Warehouse**.
+
+**Tech:** PySpark · Apache Airflow · PostgreSQL · Power BI · MongoDB
+
+<p align="center">
+  <img src="https://github.com/AhmedRefat1412/ecommerce-data-pipeline/blob/main/docs/E-commerce%20Data%20piplines.drawio.png?raw=true" width="80%" />
+</p>
+
+| Layer | Stack |
+|---|---|
+| Sources | MongoDB + CSV |
+| Processing | PySpark Transformations |
+| Warehouse | PostgreSQL (Star Schema) |
+| Visualization | Power BI |
+| Orchestration | Airflow |
 
 🔗 [View Project →](https://github.com/AhmedRefat1412/ecommerce-data-pipeline)
 
@@ -128,14 +146,6 @@ I work across the full data engineering stack:
 ## 🎯 Currently Focusing On
 
 - 🔥 Advanced PySpark & Distributed Processing
-- ⚡ Real-Time Streaming Architectures
+- ⚡ Real-Time Streaming Architectures (Kafka + Spark)
 - ☁️ AWS Data Engineering
-- 🧠 ML in Data Pipelines
-
-
-
-
-
-<div align="center">
-  <i>"Build systems that scale, pipelines that never sleep, and dashboards that tell the story."</i>
-</div>
+- 🧠 Machine Learning in Data Pipelines
