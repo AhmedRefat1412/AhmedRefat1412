@@ -1,14 +1,13 @@
 <div align="center">
 
-<!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ahmed%20Refat&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20·%20Building%20Scalable%20Pipelines%20·%20Turning%20Raw%20Data%20into%20Insights&descAlignY=58&descSize=16&animation=fadeIn" />
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Data+Engineer" alt="Typing SVG" />
 </a>
 
-<!-- Social Badges -->
+<br/>
+
 <a href="https://www.linkedin.com/in/ahmedrefat1412/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -18,6 +17,12 @@
 <a href="https://portfolio-indol-alpha-oqb5g4f1kz.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=AhmedRefat1412&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+
+</div>
 
 ---
 
@@ -76,6 +81,23 @@ I work across the full data engineering stack:
   <img src="https://img.shields.io/badge/XGBoost-189ABF?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedRefat1412&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRefat1412&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedRefat1412&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedRefat1412&theme=tokyo-night&hide_border=true&area=true" />
+</div>
 
 ---
 
