@@ -20,7 +20,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=AhmedRefat1412&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
 
@@ -81,23 +80,6 @@ I work across the full data engineering stack:
   <img src="https://img.shields.io/badge/XGBoost-189ABF?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedRefat1412&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRefat1412&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedRefat1412&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedRefat1412&theme=tokyo-night&hide_border=true&area=true" />
-</div>
 
 ---
 
