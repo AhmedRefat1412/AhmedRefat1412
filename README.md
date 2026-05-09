@@ -5,10 +5,8 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Data+Engineer+%F0%9F%9A%80;Streaming+Pipelines+%E2%9A%A1;Cloud+Data+Warehouses+%E2%98%81%EF%B8%8F;ML+in+Production+%F0%9F%A7%A0;Medallion+Architecture+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Data+Engineer" alt="Typing SVG" />
 </a>
-
-<br/><br/>
 
 <!-- Social Badges -->
 <a href="https://www.linkedin.com/in/ahmedrefat1412/">
@@ -20,13 +18,6 @@
 <a href="https://portfolio-indol-alpha-oqb5g4f1kz.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-
-<br/>
-
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=AhmedRefat1412&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-
-</div>
 
 ---
 
@@ -88,28 +79,13 @@ I work across the full data engineering stack:
 
 ---
 
-
-
-##  Featured Projects
+## Featured Projects
 
 ### 📡 1. Predictive Telecom Streaming Lakehouse
 
 > A real-time streaming platform that simulates telecom monitoring, applies ML for anomaly detection, and triggers instant alerts using a scalable lakehouse architecture.
 
-**Tech Stack:**
-
-<p>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Iceberg-2196F3?style=flat-square&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Athena-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
+**Tech:** Kafka · PySpark Structured Streaming · Apache Iceberg · AWS S3 · AWS Glue · AWS Athena · Airflow · Scikit-learn · Grafana · Docker · Telegram Bot
 
 <p align="center">
   <img src="https://github.com/AhmedRefat1412/Predictive-Telecom-Streaming-Lakehouse/blob/main/telecom_streem.png" width="80%" />
@@ -132,18 +108,7 @@ I work across the full data engineering stack:
 
 > End-to-end platform combining **batch + real-time pipelines** to predict and analyze flight delays.
 
-**Tech Stack:**
-
-<p>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-189ABF?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-</p>
+**Tech:** PySpark · Kafka · Spark Structured Streaming · XGBoost · Snowflake · TimescaleDB · Power BI · Grafana · Airflow
 
 <p align="center">
   <img src="https://github.com/AhmedRefat1412/Flight-Airline-Analytics-Platform/blob/main/doc/Flight%20%26%20Airline%20Analytics%20Platform.png?raw=true" width="80%" />
@@ -164,17 +129,7 @@ I work across the full data engineering stack:
 
 > A production-grade ELT pipeline for financial data with validation and warehouse modeling.
 
-**Tech Stack:**
-
-<p>
-  <img src="https://img.shields.io/badge/AWS%20Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Great%20Expectations-FF6B35?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-</p>
+**Tech:** AWS Glue · PySpark · dbt · Amazon Redshift · Great Expectations · Airflow · Power BI
 
 <p align="center">
   <img src="https://github.com/AhmedRefat1412/Financial_data_platform/blob/main/docs/Financial_data_paltform.drawio.png?raw=true" width="80%" />
@@ -197,17 +152,7 @@ I work across the full data engineering stack:
 
 > A smart city pipeline combining **real-time + batch processing** for traffic analytics.
 
-**Tech Stack:**
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-</p>
+**Tech:** MongoDB · PySpark · Kafka · Spark Streaming · Snowflake · TimescaleDB · Power BI · Grafana
 
 <p align="center">
   <img src="https://github.com/AhmedRefat1412/NYC-Smart_Traffic_pipline/blob/main/docs/nyc%20_traffic.drawio.png?raw=true" width="80%" />
@@ -228,15 +173,7 @@ I work across the full data engineering stack:
 
 > A fully orchestrated ETL pipeline transforming raw data into a structured **Star Schema Data Warehouse**.
 
-**Tech Stack:**
-
-<p>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
+**Tech:** PySpark · Apache Airflow · PostgreSQL · Power BI · MongoDB
 
 <p align="center">
   <img src="https://github.com/AhmedRefat1412/ecommerce-data-pipeline/blob/main/docs/E-commerce%20Data%20piplines.drawio.png?raw=true" width="80%" />
@@ -256,14 +193,7 @@ I work across the full data engineering stack:
 
 ## 🎯 Currently Focusing On
 
-<p align="left">
-  <img src="https://img.shields.io/badge/🔥%20Advanced%20PySpark-E25A1C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/⚡%20Kafka%20%2B%20Spark%20Streaming-231F20?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/☁️%20AWS%20Data%20Engineering-FF9900?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🧠%20ML%20in%20Pipelines-F7931E?style=for-the-badge" />
-</p>
-
----
-
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn" />
+- 🔥 Advanced PySpark & Distributed Processing
+- ⚡ Real-Time Streaming Architectures (Kafka + Spark)
+- ☁️ AWS Data Engineering
+- 🧠 Machine Learning in Data Pipelines
