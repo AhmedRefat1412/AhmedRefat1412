@@ -115,7 +115,7 @@ I work across the full data engineering stack:
 **Tech:** PySpark · Kafka · Spark Structured Streaming · XGBoost · Snowflake · TimescaleDB · Power BI · Grafana · Airflow
 
 <p align="center">
-  <img src="https://github.com/AhmedRefat1412/Flight-Airline-Analytics-Platform/blob/main/doc/Flight%20%26%20Airline%20Analytics%20Platform.png?raw=true" width="80%" />
+  <img src="https://github.com/AhmedRefat1412/Flight-Airline-Analytics-Platform/blob/main/doc/arcticture_digram/Flight%20%26%20Airline%20Analytics%20Platform.png?raw=true" width="80%" />
 </p>
 
 | Layer | Stack |
